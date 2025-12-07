@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # gittest
 
 first commit
@@ -5,3 +6,6 @@ first commit
 second commit
 
 third commit
+=======
+# gittest
+>>>>>>> parent of b1e5223 (first commit)
